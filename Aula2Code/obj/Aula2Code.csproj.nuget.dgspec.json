@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\Aula2Code\\Aula2Code.csproj": {}
+    "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\aula2code\\Aula2Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\Aula2Code\\Aula2Code.csproj": {
+    "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\aula2code\\Aula2Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\Aula2Code\\Aula2Code.csproj",
+        "projectUniqueName": "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\aula2code\\Aula2Code.csproj",
         "projectName": "Aula2Code",
-        "projectPath": "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\Aula2Code\\Aula2Code.csproj",
+        "projectPath": "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\aula2code\\Aula2Code.csproj",
         "packagesPath": "C:\\Users\\donil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\Aula2Code\\obj\\",
+        "outputPath": "C:\\Users\\donil\\Desktop\\Curso Analise e Desenvolvimento de Sistemas\\4º Semestre\\POO\\ProgramacaoOrientadaObjetos\\aula2code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\donil\\AppData\\Roaming\\NuGet\\NuGet.Config"

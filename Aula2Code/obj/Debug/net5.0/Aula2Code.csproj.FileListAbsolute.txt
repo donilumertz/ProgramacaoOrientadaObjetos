@@ -1,0 +1,16 @@
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\Aula2Code.exe
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\Aula2Code.deps.json
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\Aula2Code.runtimeconfig.json
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\Aula2Code.runtimeconfig.dev.json
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\Aula2Code.dll
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\ref\Aula2Code.dll
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\bin\Debug\net5.0\Aula2Code.pdb
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.csproj.AssemblyReference.cache
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.AssemblyInfoInputs.cache
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.AssemblyInfo.cs
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.csproj.CoreCompileInputs.cache
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.dll
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\ref\Aula2Code.dll
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.pdb
+C:\Users\donil\Desktop\Curso Analise e Desenvolvimento de Sistemas\4º Semestre\POO\ProgramacaoOrientadaObjetos\aula2code\obj\Debug\net5.0\Aula2Code.genruntimeconfig.cache
